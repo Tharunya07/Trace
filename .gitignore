@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Flask cache and instance folders
+instance/
+*.db
+*.sqlite3
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# Mac OS system files
+.DS_Store
+
+# Docker artifacts
+*.tar
+*.pid
+
+# Compiled source #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# MySQL and FTP logs (if you're tracking services)
+*.pid
+*.sock

@@ -1,0 +1,12 @@
+{
+    "log_path": "test_auth.log",
+    "threshold": 5,
+    "time_window": 120,
+    "email_enabled": false,
+    "alert_email": "tharunyapathipati@email.com",
+    "auto_block_enabled": false,
+    "dashboard_user": "admin",
+    "dashboard_pass": "Trace123"
+
+  }
+  
